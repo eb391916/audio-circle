@@ -13,7 +13,7 @@ function toggleSong() {
 }
 
 function preload() {
-    song = loadSound('assets/MirrorMind-BobbyRichards.mp3');
+    song = loadSound('MirrorMind-BobbyRichards.mp3');
 }
 
 function setup() {
